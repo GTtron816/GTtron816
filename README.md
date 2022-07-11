@@ -1,5 +1,5 @@
 #<h1 align="center">Hi 👋, I'm Abin</h1>
-<h3 align="center">A Student, currently BCA graduate and going to pursue MCA in the near future</h3>
+<h3 align="center">A student, currently BCA graduate and going to pursue MCA in the near future</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gttron816&label=Profile%20views&color=0e75b6&style=flat" alt="gttron816" /> </p>
 
