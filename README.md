@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abin</h1>
 <h3 align="center">A student, BCA graduate and currently pursuing MCA</h3>
-<center>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gttron816&label=Profile%20views&color=0e75b6&style=flat" alt="gttron816" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gttron816" alt="gttron816" /></a> </p>
-</center>
+
 
 <p align="left">
 </p>
