@@ -17,6 +17,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gttron816&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="gttron816" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gttron816&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="gttron816" /></p>
 
 
