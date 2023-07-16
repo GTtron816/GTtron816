@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abin</h1>
+<h1 align="center">Hi 👋, I'm GTtron</h1>
 <h3 align="center">A student, BCA graduate and currently pursuing MCA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gttron816&label=Profile%20views&color=0e75b6&style=flat" alt="gttron816" /> </p>
